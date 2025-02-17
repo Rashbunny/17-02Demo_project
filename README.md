@@ -1,5 +1,5 @@
-#First practice project, making a landing page of Zomato using HTML and CSS
+# Branch_setup
+Here is the new branch that is made...
 
-Done with first commit test
+## Continue for further branching
 
-#2 editing in github check 
